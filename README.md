@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **HUTECH University**
 
-- 👯 I’m currently learning **ReactJS, NodeJS & Java Sping Boot**
+- 👯 I’m currently learning **ReactJS, NextJs, NodeJS & Java Sping Boot**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **ReactJS, NextJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
